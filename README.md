@@ -24,7 +24,7 @@ The dataset includes sales transaction details, customer information, and produc
 Key fields in the dataset:       
 _- Date: Date of the transaction._    
 _- Product Category: Category of the purchased product (e.g., Skincare, Makeup, Fragrances)._     
-_- Product Name: Specific product names (e.g., Body Wash, Foundation)._    
+_- Product Name: Specific product names (e.g., Body Wash)._    
 _- Unit Price: Price per unit in Nigerian Naira (NGN)._    
 _- Quantity: Number of units sold per transaction._    
 _- Revenue: Total revenue per transaction in NGN._     
@@ -38,7 +38,7 @@ _- Branch: Store branch where the transaction occurred._
 - Microsoft Excel: Used for data analysis, visualization, and dashboard creation.
 - Excel Functions: Leveraged pivot tables, charts, and formulas for data manipulation and analysis.
 
-## Insights and Recommendations
+## Insights
 - Revenue by Category: Makeup and accessories lead in revenue generation, while skincare lags.
 - Top Buying Age Group: Age brackets 28-38 and 45-59 are the most active purchasers.
 - Gender Insights: Males contribute more to revenue and purchase frequency.
