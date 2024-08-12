@@ -53,4 +53,4 @@ _- Branch: Store branch where the transaction occurred._
 - Rural Marketing: Capitalize on higher revenue potential in rural areas.
 - Seasonal Promotions: Introduce offers during low-sales months to stabilize revenue.
 
-[Download the Working Sheet here](https://docs.google.com/spreadsheets/d/1JHjzOPU58MjNOVPGwqH57vtb6uTo04Hs/edit?usp=sharing&ouid=113769502157986892349&rtpof=true&sd=true)
+[View the Working Sheet here](https://docs.google.com/spreadsheets/d/1JHjzOPU58MjNOVPGwqH57vtb6uTo04Hs/edit?usp=sharing&ouid=113769502157986892349&rtpof=true&sd=true)
