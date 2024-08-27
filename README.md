@@ -13,7 +13,7 @@ This project provided a profound learning experience in data and sales analytics
 - Excel Functions and Formulas
 - Dashboarding and Automation
 - Sales Performance Assessment
-- Customer Behavior Analysis
+- Customer Behaviour Analysis
 
 ## Business Overview/Problem
 CLEARX Cosmetics faces a significant business challenge in effectively monitoring and optimizing its sales performance across its branches. The key obstacles the company encounters include:       
